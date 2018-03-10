@@ -18,6 +18,12 @@
   </url>
   
   <url>
+    <loc>http://nazreenpe.github.io/blog/tags/hello-world/</loc>
+    <lastmod>2018-03-09T15:53:08-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://nazreenpe.github.io/blog/</loc>
     <lastmod>2018-03-09T15:53:08-08:00</lastmod>
     <priority>0</priority>
@@ -37,6 +43,7 @@
   
   <url>
     <loc>http://nazreenpe.github.io/blog/tags/</loc>
+    <lastmod>2018-03-09T15:53:08-08:00</lastmod>
     <priority>0</priority>
   </url>
   
