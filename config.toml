@@ -4,6 +4,7 @@ title = "Nasreen's Code Blog"
 copyright = ""
 
 theme = "minimo"
+publishdir = "dist"
 
 disqusShortname = ""
 googleAnalytics = ""
@@ -88,7 +89,8 @@ startYear = "2018"
 suffix = ""
 
 [permalinks]
-page = ":date/:slug/"
+page = "/:slug/"
+posts = "/:year/:month/:day/:title/"
 
 # [[menu.main]]
 # name = "Repo"
